@@ -114,7 +114,7 @@ const user = {
 
 }
 
-
+//TRABAJO//
 alert (user.domicilio.ciudad + " " + user.domicilio.numero);
 console.log(user.amigos);
 alert(user.activo),

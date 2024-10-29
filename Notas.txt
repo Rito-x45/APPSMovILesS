@@ -8,3 +8,7 @@ asdsa
 ajaja
 holas
 Probas
+
+
+git config --global user.email "muges453012@gmail.com"
+git config --global user.name "Kuro"
